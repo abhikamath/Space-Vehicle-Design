@@ -1,4 +1,4 @@
-# Satellite Reverse-Engineering & Upgrade Project:
+# Satellite Reverse-Engineering & Upgrade Project
 
 ## Transiting Exoplanet Survey Satellite (TESS)
 

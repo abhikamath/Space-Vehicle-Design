@@ -1,5 +1,5 @@
 # Satellite Reverse-Engineering & Upgrade Project:
 
-# Transiting Exoplanet Survey Satellite (TESS)
+## Transiting Exoplanet Survey Satellite (TESS)
 
-Simulation code (MATLAB)
+### Simulation code (MATLAB)

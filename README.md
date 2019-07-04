@@ -3,3 +3,5 @@
 ## Transiting Exoplanet Survey Satellite (TESS)
 
 ### Simulation code (MATLAB)
+### Critical Design Review
+### Poster
